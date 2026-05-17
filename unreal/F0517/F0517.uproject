@@ -14,6 +14,18 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicMaterialMediaStreamBridge",
+			"Enabled": true
+		},
+		{
+			"Name": "PostProcessMaterialChainGraph",
+			"Enabled": true
 		}
 	]
 }
